@@ -9,7 +9,7 @@ export default function Form(){
     e.preventDefault();
 
     if(!name.trim()){
-      setError("Name should not be empty");
+      setError("Name should not be empty!!!");
       return;
     };
 
