@@ -1,0 +1,14 @@
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  margin-top: 1em;
+}
+
+.error{
+  margin-top: 1em;
+  color: red;
+  text-decoration: underline;
+}
