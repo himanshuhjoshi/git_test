@@ -1,4 +1,3 @@
 # git_test
 
-GitHub repo
-hello world!
+Hello Odin!
